@@ -1,4 +1,1 @@
 this is file created on git hub
-CHANGED GIT HUX TXT FILE LOCALLY
-INSIDE VS CODE
-just a commit
